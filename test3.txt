@@ -1,1 +1,2 @@
 This is the 3rd file in my github
+This could help me learn git very well 
